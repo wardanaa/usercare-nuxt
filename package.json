@@ -1,4 +1,5 @@
 {
+  "name": "usercare-nuxt",
   "private": true,
   "scripts": {
     "build": "nuxt build",
